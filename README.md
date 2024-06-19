@@ -1,6 +1,6 @@
-# LiftUp
+# Group 4 - Project LiftUp Mockup
 
-Elias Dellago, Phillip von Spinn, Hosea Dietenhofer, Simon Marinov, David Meyer
+Elias Dellago, Philipp von Spinn, Hosea Dietenhofer, Simon Marinov, David Meyer
 
 ## Development server
 
